@@ -1,0 +1,1 @@
+{"index.js":"\"use strict\";\n\nimport * as object_with_my_name from \"capitalize_strings\";"}
